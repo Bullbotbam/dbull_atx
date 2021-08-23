@@ -53,7 +53,7 @@ Not at this time
 
 use the link to visit the page. Here are screenshots to make it easier to find.
 
-![dBull_ATX](https://github.com/Bullbotbam/d-Bull/blob/main/assets/images/dBull_ATX.png)
+![dBull_ATX](https://github.com/Bullbotbam/dbull_atx/blob/main/assets/images/dBull_ATX.png)
 
 ## Website
 
